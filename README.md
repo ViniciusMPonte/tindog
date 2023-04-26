@@ -4,6 +4,10 @@ Este projeto foi desenvolvido com o objetivo de praticar o uso do framework Boot
 
 Ele pode ser acessado através do link https://viniciusmponte.github.io/tindog/
 
+## Screenshot
+
+<img src="https://raw.githubusercontent.com/ViniciusMPonte/portfolio/main/images/tindog.png" style="width: 500px; height: auto;">
+
 ## Tecnologias utilizadas
 
 - HTML
